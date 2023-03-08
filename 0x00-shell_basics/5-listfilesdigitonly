@@ -1,3 +1,2 @@
 #!/bin/bash
 ls --numeric-uid-gid
-
